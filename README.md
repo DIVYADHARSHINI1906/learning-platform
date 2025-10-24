@@ -10,6 +10,11 @@ Check out the live app here: [Live on Netlify](https://lively-torte-086432.netli
 
 ---
 
+## 🎬 Demo Video
+Watch the demo video here: [Demo Video on Google Drive](https://drive.google.com/file/d/1dUitAZjoe8R0SN_F16KnBDra2_h_2Lsp/view?usp=sharing)
+
+---
+
 ## 📂 GitHub Repository
 View the source code here: [GitHub Repo](https://github.com/Divyadharshini1906/learning-platform)
 
